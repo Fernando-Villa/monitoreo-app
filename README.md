@@ -1,6 +1,6 @@
 # Monitoreo de Sensores en Tiempo Real — Campus La María (UTEQ)
 
-![Captura de la aplicación](./Captura.png)
+![Captura de la aplicación](./public/Captura.png)
 
 Aplicación web desarrollada con **React + Vite** y **Firebase Realtime Database** para monitorear en tiempo real las mediciones ambientales de **10 sensores** ubicados en el campus La María de la **Universidad Técnica Estatal de Quevedo (UTEQ)**.
 
